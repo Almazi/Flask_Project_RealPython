@@ -1,2 +1,2 @@
-# 1.flask hello world
-Real Python Version 2 Practice codes, introduction to Flask framework.
+# Flask Project RealPython
+Learning Flask following https://www.youtube.com/playlist?list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM and keeping the practice codes and notes.
