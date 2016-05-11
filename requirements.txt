@@ -1,7 +1,11 @@
 Flask==0.10.1
-freeze==1.0.9
+foreman==0.9.7
+futures==3.0.5
+gunicorn==19.4.5
 itsdangerous==0.24
 Jinja2==2.8
 MarkupSafe==0.23
-six==1.10.0
+pkg-resources==0.0.0
+requests==2.10.0
+requests-futures==0.9.7
 Werkzeug==0.11.9
