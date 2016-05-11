@@ -36,7 +36,7 @@ def home():
         post_dictionary["title"] = row[0] #title is taken from row[0] of all fetched tuple data
         post_dictionary["description"] = row[1] #description is taken from row[1] of all fethced data
         #print(post_dictionary) #it will show the dictionary of datas with key and value
-        posts.append(post_dictionary) #it will add the dictionary key and value to list
+        #posts.append(post_dictionary) #it will add the dictionary key and value to list
         #print(posts) #it will show the list
         #posts.append(dict(title = row[0], description = row[1]))
     posts.append(post_dictionary)
