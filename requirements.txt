@@ -1,6 +1,17 @@
 Flask==0.10.1
+<<<<<<< HEAD
 gunicorn==19.5.0
 itsdangerous==0.24
 Jinja2==2.8
 MarkupSafe==0.23
+=======
+foreman==0.9.7
+futures==3.0.5
+gunicorn==19.4.5
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+requests==2.10.0
+requests-futures==0.9.7
+>>>>>>> 46a690cb485d35b1f6c5143ff35e814b70b0c39c
 Werkzeug==0.11.9
