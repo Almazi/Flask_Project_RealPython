@@ -4,3 +4,5 @@ Learning Flask following https://www.youtube.com/playlist?list=PLLjmbh6XPGK4ISY7
 Same app but with python 3.5.1 runtime with the help of runtime.txt: https://almazi.herokuapp.com/
 Saved links:
 Heroku remote: https://devcenter.heroku.com/articles/git#creating-a-heroku-remote
+SQLite commands: https://www.codecademy.com/articles/sql-commands?r=master
+Relational Database Management Systems (RDBMS): https://www.codecademy.com/articles/sql-rdbms?r=master
